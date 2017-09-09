@@ -1,0 +1,5 @@
+[09-Sep-2017 20:02:15 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 34
+[09-Sep-2017 20:06:02 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 34
+[09-Sep-2017 20:06:05 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 54
+[09-Sep-2017 20:06:05 UTC] PHP Stack trace:
+[09-Sep-2017 20:06:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
