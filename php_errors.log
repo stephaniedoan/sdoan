@@ -1,0 +1,7 @@
+[12-Sep-2017 18:04:42 UTC] PHP Parse error:  syntax error, unexpected 'lemon' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 9
+[12-Sep-2017 18:05:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 20
+[12-Sep-2017 18:06:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 17
+[12-Sep-2017 18:07:19 UTC] PHP Parse error:  syntax error, unexpected 'lemon' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 9
+[12-Sep-2017 18:12:11 UTC] PHP Parse error:  syntax error, unexpected 'lemon' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 9
+[12-Sep-2017 18:12:13 UTC] PHP Parse error:  syntax error, unexpected 'lemon' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 9
+[12-Sep-2017 18:17:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/sdoan/Practice/arrays.php on line 31

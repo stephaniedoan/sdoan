@@ -1,5 +1,167 @@
-[09-Sep-2017 20:02:15 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 34
-[09-Sep-2017 20:06:02 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 34
-[09-Sep-2017 20:06:05 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 54
-[09-Sep-2017 20:06:05 UTC] PHP Stack trace:
-[09-Sep-2017 20:06:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 20:42:52 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 54
+[13-Sep-2017 20:42:52 UTC] PHP Stack trace:
+[13-Sep-2017 20:42:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 20:53:39 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 54
+[13-Sep-2017 20:53:39 UTC] PHP Stack trace:
+[13-Sep-2017 20:53:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:09:42 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13
+[13-Sep-2017 21:09:42 UTC] PHP Stack trace:
+[13-Sep-2017 21:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:10:53 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13
+[13-Sep-2017 21:10:53 UTC] PHP Stack trace:
+[13-Sep-2017 21:10:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:11:12 UTC] PHP Fatal error:  Call to undefined function ufirst() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 35
+[13-Sep-2017 21:11:12 UTC] PHP Stack trace:
+[13-Sep-2017 21:11:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:12:02 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13
+[13-Sep-2017 21:12:02 UTC] PHP Stack trace:
+[13-Sep-2017 21:12:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:12:03 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13
+[13-Sep-2017 21:12:03 UTC] PHP Stack trace:
+[13-Sep-2017 21:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:12:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:12:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:12:40 UTC] PHP Fatal error:  Call to undefined function ufirst() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 35
+[13-Sep-2017 21:12:40 UTC] PHP Stack trace:
+[13-Sep-2017 21:12:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:28:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:28:29 UTC] PHP Fatal error:  Call to undefined function ufirst() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 35
+[13-Sep-2017 21:28:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:28:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:29 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:29 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 15
+[13-Sep-2017 21:31:29 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:50 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 58
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:31:57 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:31:57 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 15
+[13-Sep-2017 21:31:57 UTC] PHP Stack trace:
+[13-Sep-2017 21:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:33:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 62
+[13-Sep-2017 21:34:06 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 58
+[13-Sep-2017 21:34:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 62
+[13-Sep-2017 21:34:41 UTC] PHP Fatal error:  Call to undefined function ufirst() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 37
+[13-Sep-2017 21:34:41 UTC] PHP Stack trace:
+[13-Sep-2017 21:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:34:41 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:35:43 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:35:43 UTC] PHP Stack trace:
+[13-Sep-2017 21:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:35:43 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Warning:  Missing argument 3 for displaySymbol(), called in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 13 and defined in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:37:54 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:37:54 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 15
+[13-Sep-2017 21:37:54 UTC] PHP Stack trace:
+[13-Sep-2017 21:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:38:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 62
+[13-Sep-2017 21:38:16 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:38:16 UTC] PHP Stack trace:
+[13-Sep-2017 21:38:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:38:16 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:38:38 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:38:38 UTC] PHP Stack trace:
+[13-Sep-2017 21:38:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:38:38 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:43:52 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:43:52 UTC] PHP Stack trace:
+[13-Sep-2017 21:43:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:43:52 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:43:56 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:18) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 39
+[13-Sep-2017 21:43:56 UTC] PHP Stack trace:
+[13-Sep-2017 21:43:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:43:56 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:13
+[13-Sep-2017 21:47:36 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:21) in /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php on line 33
+[13-Sep-2017 21:47:36 UTC] PHP Stack trace:
+[13-Sep-2017 21:47:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
+[13-Sep-2017 21:47:36 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:15
