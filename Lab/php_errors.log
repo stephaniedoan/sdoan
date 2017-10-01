@@ -165,3 +165,12 @@
 [13-Sep-2017 21:47:36 UTC] PHP Stack trace:
 [13-Sep-2017 21:47:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:0
 [13-Sep-2017 21:47:36 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/sdoan/Lab/Lab2/index.php:15
+[01-Oct-2017 19:37:55 UTC] PHP Warning:  include(api/pixabayAPI.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php on line 30
+[01-Oct-2017 19:37:55 UTC] PHP Stack trace:
+[01-Oct-2017 19:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php:0
+[01-Oct-2017 19:37:55 UTC] PHP Warning:  include(): Failed opening 'api/pixabayAPI.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php on line 30
+[01-Oct-2017 19:37:55 UTC] PHP Stack trace:
+[01-Oct-2017 19:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php:0
+[01-Oct-2017 19:37:55 UTC] PHP Fatal error:  Call to undefined function getImageURLs() in /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php on line 31
+[01-Oct-2017 19:37:55 UTC] PHP Stack trace:
+[01-Oct-2017 19:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php:0
