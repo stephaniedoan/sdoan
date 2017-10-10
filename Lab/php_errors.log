@@ -174,3 +174,8 @@
 [01-Oct-2017 19:37:55 UTC] PHP Fatal error:  Call to undefined function getImageURLs() in /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php on line 31
 [01-Oct-2017 19:37:55 UTC] PHP Stack trace:
 [01-Oct-2017 19:37:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/sdoan/Lab/Lab4/index.php:0
+[10-Oct-2017 01:22:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'quotes'' in /home/ubuntu/workspace/sdoan/Lab/Lab5/index.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/sdoan/Lab/Lab5/index.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/sdoan/Lab/Lab5/index.php on line 8
